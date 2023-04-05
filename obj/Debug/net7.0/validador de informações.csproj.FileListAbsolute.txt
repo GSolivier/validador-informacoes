@@ -1,0 +1,15 @@
+C:\Users\42634177801\Desktop\validador de informações\bin\Debug\net7.0\validador de informações.exe
+C:\Users\42634177801\Desktop\validador de informações\bin\Debug\net7.0\validador de informações.deps.json
+C:\Users\42634177801\Desktop\validador de informações\bin\Debug\net7.0\validador de informações.runtimeconfig.json
+C:\Users\42634177801\Desktop\validador de informações\bin\Debug\net7.0\validador de informações.dll
+C:\Users\42634177801\Desktop\validador de informações\bin\Debug\net7.0\validador de informações.pdb
+C:\Users\42634177801\Desktop\validador de informações\obj\Debug\net7.0\validador de informações.csproj.AssemblyReference.cache
+C:\Users\42634177801\Desktop\validador de informações\obj\Debug\net7.0\validador de informações.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\42634177801\Desktop\validador de informações\obj\Debug\net7.0\validador de informações.AssemblyInfoInputs.cache
+C:\Users\42634177801\Desktop\validador de informações\obj\Debug\net7.0\validador de informações.AssemblyInfo.cs
+C:\Users\42634177801\Desktop\validador de informações\obj\Debug\net7.0\validador de informações.csproj.CoreCompileInputs.cache
+C:\Users\42634177801\Desktop\validador de informações\obj\Debug\net7.0\validador de informações.dll
+C:\Users\42634177801\Desktop\validador de informações\obj\Debug\net7.0\refint\validador de informações.dll
+C:\Users\42634177801\Desktop\validador de informações\obj\Debug\net7.0\validador de informações.pdb
+C:\Users\42634177801\Desktop\validador de informações\obj\Debug\net7.0\validador de informações.genruntimeconfig.cache
+C:\Users\42634177801\Desktop\validador de informações\obj\Debug\net7.0\ref\validador de informações.dll
